@@ -4,10 +4,10 @@ title {
 
 body{
     font-family:Arial;
-    font-size: 22px;
-    width: 2000;
-    margin: 0px;
-    background-color:  ##f5f5f2;
+    font-size: 25px;
+    width: fit-content;
+    margin: 350px;
+    background-color: #f0f0f0;
 }
 /*<style type="text/css">*/
 a:link {text-decoration:none; color: #7e9efc;} /* Link no visitado*/
@@ -22,7 +22,7 @@ ul {
     margin-top: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #bdbdbd;
 }
 
 ul li{
@@ -48,8 +48,8 @@ ol li{
     /*padding: 1px;*/
     /*margin-left: 100px;*/
     list-style-type:decimal;
-    color: #b967ff;
-    background: #333;
+    color: #b967ff8f;
+    background: #fff;
     margin: 5px;
     margin-left 0px;
     padding-left: 20px;
@@ -60,14 +60,14 @@ ol li{
 h2
 {
     font-family: Arial;
-    font-size: 26px;
+    font-size: 30px;
     /*width: 500px;*/
-    margin: 25px;
-    color: #b967ff;
+    margin: 1px;
+    color: #2c53c7;
     letter-spacing: 2px;
-    font-weight:inherit;
-    background: #cce5ff;
-    margin: 5px;
+    font-weight:bold;
+    background: #f7f7f700;
+    margin: inheritpx;
 }
 #container > div {
     display: flex;
