@@ -7,7 +7,7 @@ body{
     font-size: 22px;
     width: 2000;
     margin: 0px;
-    background-color: #000000;
+    background-color:  ##f5f5f2;
 }
 /*<style type="text/css">*/
 a:link {text-decoration:none; color: #7e9efc;} /* Link no visitado*/
@@ -59,7 +59,7 @@ ol li{
 
 h2
 {
-    font-family: Helvetica;
+    font-family: Arial;
     font-size: 26px;
     /*width: 500px;*/
     margin: 25px;
